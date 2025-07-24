@@ -1,0 +1,22 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "This is an indroductory session on using nodeJS and express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saivikas223877935/SIT725-2025-T2.git"
+  },
+  "author": "Sai vikas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Saivikas223877935/SIT725-2025-T2/issues"
+  },
+  "homepage": "https://github.com/Saivikas223877935/SIT725-2025-T2#readme"
+}
