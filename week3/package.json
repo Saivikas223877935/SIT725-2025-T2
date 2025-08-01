@@ -1,0 +1,23 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "week3 Bootstrapping Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saivikas223877935/SIT725-2025-T2.git"
+  },
+  "author": "Sai vikas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saivikas223877935/SIT725-2025-T2/issues"
+  },
+  "homepage": "https://github.com/Saivikas223877935/SIT725-2025-T2#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "init": "^0.1.2"
+  }
+}
